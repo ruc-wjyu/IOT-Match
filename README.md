@@ -10,7 +10,7 @@ As an essential operation of legal retrieval, legal case matching plays a centra
 # Data
 We will provide ELAM to support [CAIL 2022](http://cail.cipsc.org.cn/) explainable legal case matching track. For a fair competition, we will not leak ELAM here. Please stay tuned for CAIL!
 
-For eCAIL, you would like to download [here](https://drive.google.com/file/d/1ixjnkpGvM8RL7arxFDrCMiVWzJtifQYv/view?usp=sharing).
+For eCAIL, you would like to download it [here](https://drive.google.com/file/d/1ixjnkpGvM8RL7arxFDrCMiVWzJtifQYv/view?usp=sharing).
 
 # Requirements
 ```python
