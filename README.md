@@ -14,7 +14,27 @@ For eCAIL, you would like to download it [here](https://drive.google.com/file/d/
 
 # Requirements
 ```python
-python == 3.6
+python>=3.7
+torch>=1.9.1+cu111
+transformers>=4.20.1
+numpy>=1.20.1
+jieba>=0.42.1
+six>=1.15.0
+rouge>=1.0.1
+tqdm>=4.62.3
+scikit-learn>=1.0.1
+pandas>=1.2.4
+nni>=2.6.1
+matplotlib>=3.3.4
+termcolor>=1.1.0
+networkx>=2.5
+requests>=2.25.1
+filelock>=3.0.12
+textrank4zh>=0.3
+gensim>=3.8.3
+openprompt>=1.0
+scipy>=1.8.0
+seaborn>=0.11.1
 ```
 
 # Trainining and Evaluation
