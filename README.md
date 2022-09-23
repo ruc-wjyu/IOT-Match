@@ -36,7 +36,7 @@ openprompt>=1.0
 scipy>=1.8.0
 seaborn>=0.11.1
 ```
-
+<a href="https://github.com/renmada/t5-pegasus-pytorch" title="t5-pegasus">t5-pegasus</a>
 # Trainining and Evaluation
 ```python
 python selector_one.py
