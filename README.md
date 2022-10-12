@@ -44,6 +44,7 @@ python selector_two_multi_class_ot_v3.py
 python seq2seq_convert_cail.py
 python seq2seq_model_t5.py
 python predictor_convert_t5.py
+cat_predictor.py
 python predictor_v5.py
 ```
 The parameters used in above code are shown in their own files as default parameters.
